@@ -1,19 +1,19 @@
 {
 	"aapt2": {
 		"aarch64": {
-			"url": "Hahahah its me urmom"
+			"url": "https://github.com/ThatMG393/android-compiler/raw/master/aapt2-bin/aarch64/aapt2"
 		},
-		"arm7l": {
-			"url": ""
+		"armv7l": {
+			"url": "https://github.com/ThatMG393/android-compiler/raw/master/aapt2-bin/armv7l/aapt2"
 		},
 		"armhf": {
-			"url": ""
+			"url": "https://github.com/ThatMG393/android-compiler/raw/master/aapt2-bin/armhf/aapt2"
 		},
 		"armv8l": {
-			"url": ""
+			"url": "https://github.com/ThatMG393/android-compiler/raw/master/aapt2-bin/armv8l/aapt2"
 		},
 		"arm": {
-			"url": ""
+			"url": "https://github.com/ThatMG393/android-compiler/raw/master/aapt2-bin/arm/aapt2"
 		}
 	}
 }
